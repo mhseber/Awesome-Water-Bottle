@@ -1,0 +1,102 @@
+[
+  {
+    "id": 101,
+    "name": "Hydro Peak Insulated",
+    "img": "https://images.unsplash.com/photo-1602143394881-39397332e280?auto=format&fit=crop&q=80&w=500",
+    "price": 25.99,
+    "color": "Ocean Blue",
+    "brand": "Hydro-Flask",
+    "description": "Double-wall vacuum insulation keeps drinks cold for 24 hours.",
+    "model": "HP-2024-V1"
+  },
+  {
+    "id": 102,
+    "name": "Gym Warrior Gallon",
+    "img": "https://images.unsplash.com/photo-1523362628242-f513a657273d?auto=format&fit=crop&q=80&w=500",
+    "price": 15.50,
+    "color": "Matte Black",
+    "brand": "FitLife",
+    "description": "Large capacity bottle with time markers to track daily water intake.",
+    "model": "GW-MAX-2.2"
+  },
+  {
+    "id": 103,
+    "name": "Urban Glass Elixir",
+    "img": "https://images.unsplash.com/photo-1544003385-a0b632d759ac?auto=format&fit=crop&q=80&w=500",
+    "price": 18.00,
+    "color": "Transparent Pink",
+    "brand": "PureGlass",
+    "description": "Eco-friendly borosilicate glass with a protective silicone sleeve.",
+    "model": "PG-ELX-G1"
+  },
+  {
+    "id": 104,
+    "name": "Trailblazer Steel",
+    "img": "https://images.unsplash.com/photo-1589365278144-c9e705f843ba?auto=format&fit=crop&q=80&w=500",
+    "price": 30.00,
+    "color": "Forest Green",
+    "brand": "NatureGear",
+    "description": "Rugged stainless steel build designed for extreme hiking conditions.",
+    "model": "TB-SS-500"
+  },
+  {
+    "id": 105,
+    "name": "Aero Lite Sports",
+    "img": "https://images.unsplash.com/photo-1559839914-17aae19cea9e?auto=format&fit=crop&q=80&w=500",
+    "price": 12.99,
+    "color": "Neon Yellow",
+    "brand": "SpeedX",
+    "description": "Ultra-lightweight BPA-free plastic with a quick-sip nozzle.",
+    "model": "SX-AERO-75"
+  },
+  {
+    "id": 106,
+    "name": "Classic Copper Flask",
+    "img": "https://images.unsplash.com/photo-1610832309304-9a54e5a6c475?auto=format&fit=crop&q=80&w=500",
+    "price": 35.00,
+    "color": "Polished Copper",
+    "brand": "AncientVibe",
+    "description": "Handcrafted pure copper bottle for Ayurvedic health benefits.",
+    "model": "AV-CU-900"
+  },
+  {
+    "id": 107,
+    "name": "Smart Hydrate Pro",
+    "img": "https://images.unsplash.com/photo-1618354691792-d1d42acfd860?auto=format&fit=crop&q=80&w=500",
+    "price": 55.00,
+    "color": "Silver Metallic",
+    "brand": "TechBottle",
+    "description": "Smart lid with LED display to track hydration and temperature.",
+    "model": "SMART-H2O-P"
+  },
+  {
+    "id": 108,
+    "name": "Infusion Fruit Master",
+    "img": "https://images.unsplash.com/photo-1556819445-66804a11f2c2?auto=format&fit=crop&q=80&w=500",
+    "price": 14.50,
+    "color": "Mint Green",
+    "brand": "Zesty",
+    "description": "Comes with a built-in fruit infuser for naturally flavored water.",
+    "model": "ZY-INF-1L"
+  },
+  {
+    "id": 109,
+    "name": "Executive Vacuum Thermos",
+    "img": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&q=80&w=500",
+    "price": 22.00,
+    "color": "Navy Blue",
+    "brand": "OfficeLux",
+    "description": "Sleek professional design with a leak-proof magnetic cap.",
+    "model": "OL-EXEC-50"
+  },
+  {
+    "id": 110,
+    "name": "Kiddo Sip-Safe",
+    "img": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=500",
+    "price": 10.00,
+    "color": "Red & White",
+    "brand": "BabySteps",
+    "description": "Durable, spill-proof bottle with easy-grip handles for kids.",
+    "model": "BS-KID-X3"
+  }
+]
