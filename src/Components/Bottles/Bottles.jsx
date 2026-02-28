@@ -6,14 +6,17 @@ const Bottles = ({ bottlesPromise }) => {
 
   const bottles = use(bottlesPromise);
 
-  const handleAddToCart = () => {
-    console.log("Bottle Buy Now");
+  const handleAddToCart = (bottle) => {
+    // console.log("Bottle Buy Now");
+    const newCart = [...cart, bottle];
+    setCart(newCart);
   };
 
   //   console.log(bottles);
   return (
     <div>
       <h1>Bottles : {bottles.length}</h1>
+      <p>Cart Items: {cart.length}</p>
       {bottles.map((bottle) => (
         <Bottle
           key={bottle.id}
